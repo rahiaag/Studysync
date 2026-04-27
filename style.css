@@ -37,8 +37,8 @@ body{
 .logo{
     display: flex;
     align-items: center;
-    font-size: 2rem;
     font-weight:bold;
+    font-size: 2rem;
     color:var(--text-color);
     text-decoration: none;
     gap:0.625rem;
